@@ -1,0 +1,3 @@
+Kebutuhan Fungsional
+Sistem menyediakan form login yang berisi email dan password yang harus diisi pengguna. Kemudian di sana juga terdapat tombol login. Ketika tombol tersebut ditekan, pengguna yang sudah melengkapi email dan password dengan benar dapat mengakses konten halaman website.
+Pada sistem terdapat tombol logout. Ketika tombol tersebut ditekan, pengguna akan masuk kemabali ke tampilan halaman login website.
